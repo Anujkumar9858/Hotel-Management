@@ -1,0 +1,25 @@
+.service-card {
+    background-color: #fff;
+    transition: all 0.3s ease;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.08); 
+    border: none; 
+    border-radius: 15px;
+}
+
+.service-card:hover {
+    background-color: #feaf39 !important;
+    color: white !important;
+    transform: translateY(-8px);
+    transition: all 0.3s ease;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.15); 
+}
+
+.service-card:hover i,
+.service-card:hover h5,
+.service-card:hover p {
+    color: white !important;
+}
+
+.service-card:hover .text-warning {
+    color: white !important;
+}

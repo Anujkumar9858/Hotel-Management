@@ -1,0 +1,42 @@
+*{
+    margin: 0rem;
+     padding: 0rem;
+     box-sizing: border-box;
+ }
+ .logo{
+     font-size: calc(1.375rem + 1.5vw);
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color: #FEA116;
+     margin-left: 4rem;
+ }
+ /* .header{
+    position: fixed;
+    top:0;left:0;right: 0;
+    z-index: 1000;
+ } */
+ .Main{
+     background-color:#0F172B;
+ }
+ #first{
+     color: aliceblue;
+     font-size: 18px;
+    margin-left: 25px;
+    padding: 14px;
+    
+ }
+ #second{
+         color: #FEA116;
+     font-size: 18px;
+    margin-left: 25px;
+    padding: 14px;
+    
+ }
+ #third{
+ color:white;
+ width: 11rem;
+ height: 3rem;
+ background-color:#FEA116;
+ font-size: 14px;
+ margin-left: 80px;
+ padding: 14px;
+ }

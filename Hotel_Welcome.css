@@ -1,0 +1,29 @@
+
+/* https://cf.bstatic.com/xdata/images/hotel/max1024x768/481323054.jpg?k=002bc23d038c7d8d13e02cdb2ea05cac41ccf77665c39a88fe6b7e8a2444f3c6&o=&hp=1 */
+
+
+/* https://cf.bstatic.com/xdata/images/hotel/max1024x768/481323054.jpg?k=002bc23d038c7d8d13e02cdb2ea05cac41ccf77665c39a88fe6b7e8a2444f3c6&o=&hp=1 */
+
+.first-img {
+  position: relative; 
+}
+#image{
+  height: 20rem;
+  width: 40rem;
+}
+
+.first-img img {
+  width: 100%; 
+}
+
+.img-label {
+  position: absolute;
+  bottom: 10px; 
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(0, 0, 0, 0.5); 
+  color: white; /* White text color */
+  padding: 5px 10px;
+  border-radius: 5px; 
+}
+
